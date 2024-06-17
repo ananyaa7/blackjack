@@ -46,6 +46,8 @@ user_cards.append(deal_card(cards))
 computer_cards.append(deal_card(cards))
 computer_cards.append(deal_card(cards))
 
+#tryung to see if commit works
+
 #Hint 6: Create a function called calculate_score() that takes a List of cards as input 
 #and returns the score. 
 #Look up the sum() function to help you do this.
